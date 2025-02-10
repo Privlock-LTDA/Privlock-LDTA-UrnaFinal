@@ -54,10 +54,6 @@ Este projeto de urna eletrônica é uma demonstração de como a tecnologia pode
 - [ ] Totalização de Resultados
 - [ ] Integração e Testes Finais
 
-## Como Contribuir
-
-Contribuições são bem-vindas! Caso tenha sugestões ou queira melhorar o projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. A *Privlock LTDA* valoriza a colaboração e a inovação contínua para tornar nossos sistemas ainda mais seguros e eficientes.
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -66,5 +62,5 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 
 Caso tenha dúvidas ou queira saber mais sobre a *Privlock LTDA*, entre em contato conosco:
 
-- **E-mail**: contato@privlock.com.br
+- **E-mail**: privlockltda@gmail.com
 - **Website**: [www.privlock.com.br](http://www.privlock.com.br)
