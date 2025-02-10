@@ -25,6 +25,46 @@ Este projeto de urna eletrônica é uma demonstração de como a tecnologia pode
 - **Totalização dos Resultados**: O sistema calcula e exibe os resultados de forma automatizada e transparente.
 - **Autenticação de Eleitores (opcional)**: Implementação de medidas de segurança para garantir que apenas eleitores autorizados possam votar.
 
+## Passo a Passo: Como Utilizar a Urna Eletrônica
+
+### 1. **Abertura da Urna**
+   Ao iniciar o sistema, a urna eletrônica irá exibir a tela inicial com a opção de autenticação (se implementada) ou diretamente o menu de votação. 
+   
+   Caso o sistema requeira login:
+   - Digite suas credenciais de administrador ou eleitor.
+   - Caso o login não seja necessário, pule esta etapa e vá diretamente para a tela de votação.
+
+### 2. **Cadastro de Candidatos (Administração)**
+   Se você for o administrador do sistema e desejar cadastrar candidatos:
+   - Acesse a tela de administração.
+   - Clique na opção **Cadastrar Candidato**.
+   - Preencha as informações necessárias:
+     - **Nome do Candidato**
+     - **Número do Candidato**
+     - **Partido**
+   - Após preencher, clique em **Salvar** para registrar o candidato no sistema.
+
+### 3. **Votação**
+   Para os eleitores realizarem a votação:
+   - Na tela inicial, selecione a opção **Iniciar Votação**.
+   - Será exibida a lista de candidatos disponíveis para voto.
+   - O eleitor deve selecionar o número do candidato desejado e clicar em **Votar**.
+     - **Importante**: O voto será registrado de forma segura e anônima. Não é possível alterar um voto após ser registrado.
+   
+### 4. **Finalizando a Votação**
+   Quando todos os eleitores tiverem votado ou quando o administrador decidir finalizar a votação:
+   - Acesse a tela de administração e selecione **Finalizar Votação**.
+   - O sistema irá calcular automaticamente os resultados e exibir o número de votos de cada candidato.
+
+### 5. **Consulta aos Resultados**
+   - Após a votação ser finalizada, o administrador pode consultar os resultados acessando a opção **Resultados**.
+   - Os resultados serão exibidos de forma clara, com o total de votos por candidato e o vencedor da eleição.
+
+### 6. **Encerramento**
+   - Após consultar os resultados, o administrador pode encerrar a urna clicando na opção **Encerrar Urna**.
+   - Isso irá finalizar o processo de votação, tornando os dados inacessíveis para edições futuras.
+
+
 ## Como Rodar
 
 1. **Pré-requisitos**:
