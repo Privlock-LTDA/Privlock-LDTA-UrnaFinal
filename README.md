@@ -1,4 +1,4 @@
-# Urna Eletrônica - Projeto de Simulação | Privlock LTDA
+# ⚙ Urna Eletrônica - Projeto de Simulação ⚙ | Privlock LTDA
 
 Este repositório contém o código-fonte de uma urna eletrônica desenvolvida como parte de um projeto acadêmico da *Privlock LTDA*, uma empresa especializada em soluções de segurança digital. O sistema visa simular o processo de votação eletrônica, abordando aspectos fundamentais como a segurança, integridade e privacidade dos votos, elementos essenciais em qualquer sistema digital de eleições.
 
