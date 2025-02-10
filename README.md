@@ -103,4 +103,4 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](
 Caso tenha dúvidas ou queira saber mais sobre a *Privlock LTDA*, entre em contato conosco:
 
 - **E-mail**: privlockltda@gmail.com
-- **Website**: [www.privlock.com.br](http://www.privlock.com.br)
+- **Website**: [http://www.privlock.com.br](https://privlock-ltda.github.io/Privlock-Website/)
