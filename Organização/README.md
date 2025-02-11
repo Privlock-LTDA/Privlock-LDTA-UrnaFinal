@@ -2,7 +2,7 @@
 
 
 
-**Segurança Digital. Proteção de Dados. Confiança e Inovação.**
+**Código Fechado.**
 
 
 ---
