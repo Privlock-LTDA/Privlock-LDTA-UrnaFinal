@@ -3,7 +3,7 @@ Links Uteis
 
 [Chat GPT](https://chatgpt.com/)
 
-Netbena
+[Netbeans IDE](https://netbeans.apache.org/front/main/download/nb24/)
 
 
 
