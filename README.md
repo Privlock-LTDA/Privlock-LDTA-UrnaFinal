@@ -1,5 +1,7 @@
 # ⚙ Urna Eletrônica - Projeto de Simulação ⚙ | Privacy & Locking Solutions LTDA
 
+<img src="https://www.santarita.pb.leg.br/site/wp-content/uploads/2024/08/IMG-20240826-WA0028-613x400.jpg">
+
 Este repositório contém o código-fonte de uma urna eletrônica desenvolvida como parte de um projeto acadêmico da *Privlock LTDA*, uma empresa especializada em soluções de segurança digital. O sistema visa simular o processo de votação eletrônica, abordando aspectos fundamentais como a segurança, integridade e privacidade dos votos, elementos essenciais em qualquer sistema digital de eleições.
 
 A aplicação foi desenvolvida em Java, utilizando o NetBeans IDE, com foco em proporcionar uma experiência segura, robusta e confiável para os eleitores e administradores.
